@@ -1,0 +1,23 @@
+<template>
+    <div>
+        <ul>
+            <li>
+                <a href="/message1">news001</a>&nbsp;&nbsp;
+            </li>
+            <li>
+                <a href="/message2">news002</a>&nbsp;&nbsp;
+            </li>
+            <li>
+                <a href="/message/3">news003</a>&nbsp;&nbsp;
+            </li>
+        </ul>
+    </div>
+</template>
+<script>
+export default {
+    name: "PageNews"
+}
+</script>
+<style>
+    
+</style>
